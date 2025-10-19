@@ -1,1 +1,2 @@
 # image-cleaning-programJS1
+#I created this image cleaning and editing Python software to crop, re-orient and organize scanned archival material in preparation for it #to become easily tagged with metadata, searchable and usable by researchers. I created it in the span of a month and a half using Python; #the program can process, clean, and crop (with an arbitrary border) 30,000+ archival images saving Thomas College 1512 hours of manual labor
